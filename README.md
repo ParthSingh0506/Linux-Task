@@ -9,3 +9,4 @@ LinuxTask @ARTH2.0
 1.4 [Exploring date command with various options.](https://parthsingh562k.medium.com/explore-date-command-and-with-options-and-try-to-use-every-option-and-create-a-simple-document-for-5a7dc44a3735)
 ---
 1.5 [Linux Fun commands that you should know.](https://parthsingh562k.medium.com/funny-commands-in-linux-that-you-should-try-62d198e555e5)
+---
