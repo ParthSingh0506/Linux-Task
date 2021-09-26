@@ -1,7 +1,7 @@
 LinuxTask @ARTH2.0
 
-###1.1 Explore Zenity command in Linux with various options<https://www.linkedin.com/feed/update/urn:li:activity:6844466416440143872?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A6844466416440143872%2C6847205710007164928%29>
-###1.2 Explore espeak-ng command in Linux wiht various options.
-###1.3 Explore RAM & show how data is stored in it when a variable is declared.
-###1.4 Exploring date command with various options.
-###1.5 Linux Fun commands that you should know.
+####1.1 Explore Zenity command in Linux with various options<https://www.linkedin.com/feed/update/urn:li:activity:6844466416440143872?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A6844466416440143872%2C6847205710007164928%29>
+####1.2 Explore espeak-ng command in Linux wiht various options.
+####1.3 Explore RAM & show how data is stored in it when a variable is declared.
+####1.4 Exploring date command with various options.
+####1.5 Linux Fun commands that you should know.
