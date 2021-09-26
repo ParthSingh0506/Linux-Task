@@ -1,4 +1,4 @@
-LinuxTask @ARTH2.0
+**LinuxTask @ARTH2.0**
 
 1.1 [Explore Zenity command in Linux with various options](https://parthsingh562k.medium.com/make-simple-graphical-shell-scripts-with-zenity-on-linux-b9cbad95257c)
 ---
